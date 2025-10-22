@@ -21,7 +21,7 @@ Este projeto foi construído sobre a arquitetura .NET Core, focando em práticas
 | :--- | :--- | :--- | :--- |
 | **Backend** | **ASP.NET Core MVC** | .NET 6+ ou 7 | Core do projeto; roteamento e lógica de negócio. |
 | **Linguagem** | C# | 10+ | Lógica de programação robusta e orientada a objetos. |
-| **Banco de Dados** | **Entity Framework Core** | Última versão | ORM para comunicação com o SQL Server (ou SQLite/InMemory). |
+| **Banco de Dados** | **Entity Framework Core** | 6.0 | ORM para comunicação com o SQL Server (ou SQLite/InMemory). |
 | **Frontend** | HTML5, CSS3, JS | N/A | Construção da interface do usuário. |
 | **Estilização** | Bootstrap | 5.x | Framework de CSS para design responsivo. |
 
