@@ -55,3 +55,4 @@ nunit-*.xml
 
 appsettings.json
 appsettings.*.json
+.vs/
